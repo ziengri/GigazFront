@@ -1,0 +1,10 @@
+@media screen and (max-width: 750px){
+    .links{
+        display: none!important;
+    }
+}
+@media screen and (min-width: 752px){
+    .menu{
+        display: none!important;
+    }
+}
