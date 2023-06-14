@@ -62,7 +62,7 @@ function Row() {
                             autoFocus
                             margin="dense"
                             id="name"
-                            label="Название объекта"
+                            label="Название объект"
                             // error={Boolean(errors.buildingName?.message)}
                             // helperText={errors.buildingName?.message}
                             // {...register('buildingName',{required:'Введите название'})}
